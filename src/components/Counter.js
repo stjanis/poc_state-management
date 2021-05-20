@@ -6,7 +6,7 @@ const Counter = () => {
       <h2>Counter</h2>
       <p>Current count is ...</p>
       <button>Add</button>
-      <button style={{ margin: "0 20px" }}>Remove</button>
+      <button style={{ margin: "0 20px" }}>Subtrack</button>
     </div>
   );
 };
